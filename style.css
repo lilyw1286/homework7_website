@@ -1,0 +1,37 @@
+head {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-align: center;
+  clear: both; 
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.right-img {
+    float: right;
+    width: 200px;        
+    margin-left: 20px;   
+    margin-bottom: 20px; 
+    border-radius: 10px; 
+  }
+
+body {
+    background-image: linear-gradient(#fdf5e6, #ffe4e1);
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h2, h3, h4, h5 {
+    font-size: 20px; 
+    margin-bottom: 10px;
+    clear: both
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace
+}
